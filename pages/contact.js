@@ -12,7 +12,7 @@ export default function Contact() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Contact
+          Contact zzz
           <br />
           <Link href="/">
             <a>Go Home</a>
